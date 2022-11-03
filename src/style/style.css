@@ -1,0 +1,146 @@
+* {
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+
+.container {
+    max-width: 1000px;
+    padding: 0 15px;
+}
+
+.nav-list {
+    margin: 0 -20px;
+    padding: 0;
+    text-align: center;
+}
+
+.nav-item {
+    display: inline-block;
+    padding: 27px 40px;
+}
+
+.nav-list a {
+    text-decoration: none;
+    color: #828282;
+}
+
+.dark-theme a {
+    color: #070707;
+}
+
+.vector {
+    max-width: 100%;
+    height: 0px;
+    margin: 0;
+    border: 1px solid #828282;
+    background: #828282;
+}
+
+.name {
+    font-size: 48px;
+    line-height: 65px;
+    color: #070707;
+    padding: 12px 0 50px 0;
+}
+
+.image {
+    background-position: 30 50%;
+    background-size: cover;
+}
+
+.image img {
+    width: 100%;
+    padding: 0 0 100px 0;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 34px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 14px;
+    line-height: 19px;
+    color: #828282;
+    padding: 25px 0 0 0;
+    width: 78px;
+    height: 38px;
+}
+
+#about-me {
+    background: #f6f6f6;
+    padding: 0 0 100px 0;
+}
+
+.about-me {
+    padding: 100px 0 50px 0;
+}
+
+.text-about {
+    text-align: center;
+    padding: 30px 0;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+}
+
+.all-text-about {
+    width: 480px;
+    height: 246px;
+    max-width: 1000px;
+}
+
+.mid-text {
+    text-align: center;
+    padding: 20px 0 50px;
+}
+
+#skills {
+    max-width: 970px;
+    margin: 0 auto;
+}
+
+.skills {
+    padding: 100px 0 0;
+}
+
+.skills-blocks {
+    display: inline-block;
+    text-align: center;
+}
+
+
+.image-stars {
+    padding: 60px 0 0;
+}
+
+.skills-blocks li {
+    max-width: 170px;
+}
+
+.item {
+    padding-bottom: -10px;
+}
+
+.skills-container {
+    max-height: min-content;
+}
+
+
+.portfolio {
+    padding: 100px 0 50px;
+}
